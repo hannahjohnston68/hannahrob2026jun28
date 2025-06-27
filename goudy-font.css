@@ -1,0 +1,17 @@
+/* Editor's Note Light Font Face Definition */
+@font-face {
+    font-family: 'Editor\'s Note Light';
+    src: url('https://static1.squarespace.com/static/6800ba0e7bf9f763fe7a3e07/t/6800ba1d7bf9f763fe7a3ee7/1709904740045/Editor%27sNote-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* The Seasons Font Face Definition */
+@font-face {
+    font-family: 'The Seasons';
+    src: url('theseasons-font/Fontspring-DEMO-theseasons-reg.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} 

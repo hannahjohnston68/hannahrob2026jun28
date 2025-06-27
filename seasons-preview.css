@@ -1,0 +1,48 @@
+/* Hero section text */
+.hero h1 {
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: 5.5rem !important;
+    font-weight: normal !important;
+    letter-spacing: 2px !important;
+    margin-bottom: 1rem !important;
+}
+
+
+/* Date styling with The Seasons font */
+.hero h1:first-child {
+    font-size: 2.5rem !important;
+    font-weight: normal !important;
+    letter-spacing: 6px !important;
+}
+
+/* Home icon styling */
+.home-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    padding: 0.5rem !important;
+    margin-right: auto !important;
+    margin-top: 1rem !important;
+}
+
+.home-icon-img {
+    height: 11rem !important;
+    width: auto !important;
+    transition: transform 0.3s ease !important;
+}
+
+
+
+/* Navbar container alignment */
+.nav-container {
+    padding-left: 0 !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+}
+
+.nav-links {
+    display: flex !important;
+    align-items: center !important;
+    gap: 2rem !important;
+    flex-wrap: wrap !important;
+} 
